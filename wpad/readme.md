@@ -1,6 +1,6 @@
 # wpad
 
-![Wpad](https://imgur.com/a/nIVBUgm)
+![wpad](https://i.imgur.com/3nqASCI.png)
 
 * Keyboard Maintainer: [kubek344](https://github.com/kubek344)
 * Hardware Supported: Pro Micro
