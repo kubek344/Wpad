@@ -1,12 +1,9 @@
 # wpad
 
-![wpad](imgur.com image replace me!)
+![Wpad](https://imgur.com/a/nIVBUgm)
 
-*A short description of the keyboard/project*
-
-* Keyboard Maintainer: [kubek344](https://github.com/yourusername)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Keyboard Maintainer: [kubek344](https://github.com/kubek344)
+* Hardware Supported: Pro Micro
 
 Make example for this keyboard (after setting up your build environment):
 
