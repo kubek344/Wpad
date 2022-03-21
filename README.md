@@ -12,7 +12,7 @@ It is made with 3D printing and pro micro in mind, you might use supports on the
 - 1x EC11 rotary encoder
 - 1x Pro micro 
 - 4x M5 8mm Cap head screws
-- 6x Cherry mx compatible
+- 6x Cherry mx compatible keycaps
 - some wires, hot glue and of course 3D printer with your favourite filament
 
 ## Pin assigment 
